@@ -61,7 +61,7 @@ export function PatientsSection() {
             className="relative w-full aspect-video bg-primary/10 rounded-xl overflow-hidden flex items-center justify-center"
           >
             <video
-              src="https://cdn.clinicalvisuals.com/medical/soniquence/landing_page/soniquence_20Sec_01.webm"
+              src="https://cdn.clinicalvisuals.com/medical/pfm/short_video/pfm_02.webm"
               autoPlay
               muted
               loop

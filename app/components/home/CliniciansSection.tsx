@@ -20,7 +20,7 @@ export function CliniciansSection() {
             className="relative w-full aspect-video bg-primary/10 rounded-xl overflow-hidden flex items-center justify-center"
           >
             <video
-              src="https://cdn.clinicalvisuals.com/medical/soniquence/landing_page/soniquence_20Sec_02.webm"
+              src="https://cdn.clinicalvisuals.com/medical/pfm/short_video/pfm_01.webm"
               autoPlay
               muted
               loop
