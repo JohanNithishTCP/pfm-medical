@@ -87,14 +87,14 @@ export function Footer() {
 
         {/* Bottom Bar */}
         <div className="flex flex-col md:flex-row justify-between items-center py-6 border-t border-[#053d5a]/20">
-          <div className="flex flex-wrap items-center gap-x-6 gap-y-3 lg:gap-x-10 mb-4 md:mb-0 text-[13px] font-normal text-text-dark">
+          <div className="flex flex-wrap items-center font-medium gap-x-6 gap-y-3 lg:gap-x-10 mb-4 md:mb-0 text-[14px] text-text-dark">
             <Link href="/" className="hover:text-black transition-colors">Contact</Link>
             <Link href="/" className="hover:text-black transition-colors">Imprint</Link>
             <Link href="/" className="hover:text-black transition-colors">Data Privacy</Link>
             <Link href="/" className="hover:text-black transition-colors">Sitemap</Link>
             <Link href="/" className="hover:text-black transition-colors">Terms and Conditions</Link>
           </div>
-          <div className="text-[13px] font-normal text-text-dark">
+          <div className="text-[14px] font-medium text-text-dark">
             © pfm medical gmbh. All rights reserved
           </div>
         </div>

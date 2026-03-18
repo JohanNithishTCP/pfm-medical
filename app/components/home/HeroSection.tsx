@@ -40,14 +40,14 @@ export function HeroSection() {
             data-aos-delay="200"
             className="text-2xl sm:text-3xl md:text-5xl lg:text-[35px] font-bold mb-4 md:mb-6 leading-tight [text-shadow:2px_2px_10px_rgba(0,0,0,0.5)]"
           >
-            Precision Medical Devices for ENT & Plastic Surgery Excellence
+            Precision Medical Technology You Can Trust
           </h1>
           <p
             data-aos="fade-up"
             data-aos-delay="400"
             className="text-sm sm:text-base md:text-lg lg:text-[19px] leading-relaxed max-w-5xl mx-auto [text-shadow:1px_1px_5px_rgba(0,0,0,0.5)] opacity-90"
           >
-            Delivering high-quality instruments, implants, and surgical supplies trusted by healthcare professionals worldwide—backed by decades of expertise for reliable performance and better patient outcomes.
+            We deliver high-quality medical devices engineered with precision and reliability. Our solutions are designed to support healthcare professionals with safety, efficiency, and uncompromising performance across every application.
           </p>
         </div>
       </Container>

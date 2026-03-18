@@ -40,7 +40,7 @@ export function CliniciansSection() {
               Clinicians
             </span>
             <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-[42px] font-bold text-white mb-4 md:mb-6 leading-tight">
-              Breast Cancer Diagnostics
+              Specialized Clinical Solutions for Patient Care
             </h2>
             <p className="text-white/90 text-sm sm:text-base md:text-[16px] mb-8 leading-relaxed">
               The ClearCoast™ MRI System enables precise intraoperative margin assessment,
@@ -55,8 +55,8 @@ export function CliniciansSection() {
                   <CustomCheckSquareWhite className="w-5 h-5 md:w-[18px] md:h-[18px]" />
                 </div>
                 <div>
-                  <h3 className="font-bold text-white text-[15px] mb-1">Easy operation and simple interpretation</h3>
-                  <p className="text-white/80 text-[14px] leading-relaxed">
+                  <h3 className="font-bold text-white text-[16px] mb-1">Easy operation and simple interpretation</h3>
+                  <p className="text-white/80 text-[16px] leading-relaxed">
                     Easy-to-use system with clear, color-coded results that can be operated by trained staff without specialized expertise.
                   </p>
                 </div>
@@ -68,8 +68,8 @@ export function CliniciansSection() {
                   <CustomCheckSquareWhite className="w-5 h-5 md:w-[18px] md:h-[18px]" />
                 </div>
                 <div>
-                  <h3 className="font-bold text-white text-[15px] mb-1">Fewer follow-up operations</h3>
-                  <p className="text-white/80 text-[14px] leading-relaxed">
+                  <h3 className="font-bold text-white text-[16px] mb-1">Fewer follow-up operations</h3>
+                  <p className="text-white/80 text-[16px] leading-relaxed">
                     Enhances detection of positive margins during surgery, reducing repeat procedures by up to 80%.
                   </p>
                 </div>

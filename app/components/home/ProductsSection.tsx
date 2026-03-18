@@ -18,14 +18,14 @@ export function ProductsSection() {
             data-aos-delay="200"
             className="text-2xl sm:text-3xl md:text-[42px] font-bold text-white mb-6 leading-tight"
           >
-            Mesh Implants for Breast Reconstruction
+            Comprehensive Medical Solutions
           </h2>
           <p
             data-aos="fade-up"
             data-aos-delay="400"
             className="text-white/90 text-base md:text-[16px] leading-relaxed max-w-3xl mx-auto font-medium"
           >
-            pfm medical delivers advanced surgical implants developed over 20 years, ensuring high quality, reliability, and improved outcomes for patients and healthcare professionals worldwide.
+            Explore a comprehensive range of high-quality medical devices designed to support diverse clinical needs.
           </p>
         </div>
 

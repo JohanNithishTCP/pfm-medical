@@ -17,14 +17,10 @@ export function PatientsSection() {
             </span>
             {/* The title has a distinctly warm/brown hue based on the image */}
             <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-[42px] font-bold text-[#5a3528] mb-4 md:mb-6 leading-tight">
-              Port Catheter Systems
+              Innovative and Reliable Medical Solutions
             </h2>
             <p className="text-text-muted text-sm sm:text-base md:text-[16px] mb-8 leading-relaxed">
-              Implantable port systems are used for long-term delivery of medicines and
-              fluids, reducing the need for repeated needle punctures. They enhance
-              patient comfort, support safer and more efficient treatment, and allow
-              patients to maintain a more normal and independent lifestyle with fewer
-              limitations.
+              Implantable port systems are used for long-term delivery of medicines and fluids, reducing the need for repeated needle punctures. They enhance patient comfort, support safer and more efficient treatment, and allow patients to maintain a more normal and independent lifestyle with fewer limitations.
             </p>
 
             <h3 className="font-bold text-text-dark text-[16px] mb-5">

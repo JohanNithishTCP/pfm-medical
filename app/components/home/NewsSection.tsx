@@ -29,8 +29,8 @@ export function NewsSection() {
               <img src="/home/news-1.jpg" alt="News 1" className="w-full h-full object-cover" />
             </div>
             <div className="pt-6 px-2 flex justify-between items-start">
-              <p className="text-text-dark text-[16px] leading-relaxed pr-6 line-clamp-3">
-                Another site for the Magnetic Resonance Outcome (MRO) study in Europe (07/06/2023)
+              <p className="text-text-dark font-medium text-[16px] leading-relaxed pr-6 line-clamp-3">
+                Another site for the Magnetic Resonance Outcome (MRO) study in Europe
               </p>
               <div className="shrink-0 w-10 h-10 rounded-full bg-primary text-white flex items-center justify-center transition-transform group-hover:scale-110">
                 <ArrowUpRight size={18} strokeWidth={2.5} />
@@ -48,8 +48,8 @@ export function NewsSection() {
               <img src="/home/news-2.jpg" alt="News 1" className="w-full h-full object-cover" />
             </div>
             <div className="pt-6 px-2 flex justify-between items-start">
-              <p className="text-text-dark text-[16px] leading-relaxed pr-6 line-clamp-3">
-                pfm Forceps EWF 600 - The first wireless electronic forceps for the histologic lab is now available (01/22/2020)
+              <p className="text-text-dark font-medium text-[16px] leading-relaxed pr-6 line-clamp-3">
+                pfm Forceps EWF 600 - The first wireless electronic forceps for the histologic lab is now available
               </p>
               <div className="shrink-0 w-10 h-10 rounded-full bg-primary text-white flex items-center justify-center transition-transform group-hover:scale-110">
                 <ArrowUpRight size={18} strokeWidth={2.5} />
@@ -67,8 +67,8 @@ export function NewsSection() {
               <img src="/home/news-3.png" alt="News 1" className="w-full h-full object-cover" />
             </div>
             <div className="pt-6 px-2 flex justify-between items-start">
-              <p className="text-text-dark text-[16px] leading-relaxed pr-6 line-clamp-3">
-                University Hospital of North Tees buys PathLite Compact systems (03/02/2023)
+              <p className="text-text-dark font-medium text-[16px] leading-relaxed pr-6 line-clamp-3">
+                University Hospital of North Tees buys PathLite Compact systems
               </p>
               <div className="shrink-0 w-10 h-10 rounded-full bg-primary text-white flex items-center justify-center transition-transform group-hover:scale-110">
                 <ArrowUpRight size={18} strokeWidth={2.5} />
