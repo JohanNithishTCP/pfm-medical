@@ -12,6 +12,14 @@ export function CliniciansSection() {
   return (
     <section className="bg-primary py-20 md:py-28 relative">
       <Container>
+        <div className="text-center max-w-5xl mx-auto mb-12">
+          <span className="text-white font-bold text-sm tracking-widest uppercase mb-4 block">
+            Clinicians
+          </span>
+          <h2 className="text-2xl sm:text-3xl md:text-[36px] font-bold text-white mb-6 leading-tight">
+            Innovative Solutions for Improved Surgical Outcomes
+          </h2>
+        </div>
         <div className="grid grid-cols-1 lg:grid-cols-[55%_45%] gap-12 lg:gap-20 items-center">
 
           {/* Left Column - Image Placeholder */}
@@ -36,12 +44,7 @@ export function CliniciansSection() {
             data-aos="fade-left"
             className="flex flex-col text-white"
           >
-            <span className="text-white font-bold text-sm tracking-widest uppercase mb-4">
-              Clinicians
-            </span>
-            <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-[42px] font-bold text-white mb-4 md:mb-6 leading-tight">
-              Specialized Clinical Solutions for Patient Care
-            </h2>
+            
             <p className="text-white/90 text-sm sm:text-base md:text-[16px] mb-8 leading-relaxed">
               The ClearCoast™ MRI System enables precise intraoperative margin assessment,
               helping reduce repeat surgeries and preserve healthy tissue during

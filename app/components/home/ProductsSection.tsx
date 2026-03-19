@@ -16,7 +16,7 @@ export function ProductsSection() {
           <h2
             data-aos="fade-up"
             data-aos-delay="200"
-            className="text-2xl sm:text-3xl md:text-[42px] font-bold text-white mb-6 leading-tight"
+            className="text-2xl sm:text-3xl md:text-[36px] font-bold text-white mb-6 leading-tight"
           >
             Comprehensive Medical Solutions
           </h2>

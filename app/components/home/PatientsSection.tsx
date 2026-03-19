@@ -16,7 +16,7 @@ export function PatientsSection() {
               Patients
             </span>
             {/* The title has a distinctly warm/brown hue based on the image */}
-            <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-[42px] font-bold text-[#5a3528] mb-4 md:mb-6 leading-tight">
+            <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-[36px] font-bold text-[#000] mb-4 md:mb-6 leading-tight">
               Innovative and Reliable Medical Solutions
             </h2>
             <p className="text-text-muted text-sm sm:text-base md:text-[16px] mb-8 leading-relaxed">

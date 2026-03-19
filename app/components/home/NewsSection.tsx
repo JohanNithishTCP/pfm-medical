@@ -10,7 +10,7 @@ export function NewsSection() {
           <span className="text-primary font-bold text-sm tracking-widest uppercase mb-4 block">
             News & Updates
           </span>
-          <h2 className="text-3xl md:text-[42px] font-bold text-[#5a3528] mb-6 leading-tight">
+          <h2 className="text-3xl md:text-[36px] font-bold text-[#000] mb-6 leading-tight">
             Stay Updated with pfm medical
           </h2>
           <p className="text-text-muted text-base md:text-[16px] leading-relaxed max-w-3xl mx-auto">

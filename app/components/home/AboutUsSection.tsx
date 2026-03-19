@@ -30,7 +30,7 @@ export function AboutUsSection() {
             <span className="text-primary font-bold text-sm tracking-widest uppercase mb-4">
               About Us
             </span>
-            <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-[40px] font-bold text-text-dark mb-4 md:mb-6 leading-tight">
+            <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-[36px] font-bold text-text-dark mb-4 md:mb-6 leading-tight">
               Advanced Healthcare Solutions Across Specialties
             </h2>
             <p className="text-text-muted text-sm sm:text-base md:text-[16px] mb-8 text-justify leading-relaxed">
