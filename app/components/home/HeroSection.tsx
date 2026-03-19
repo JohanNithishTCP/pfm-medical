@@ -3,10 +3,9 @@ import React, { useState } from 'react';
 import { Container } from '../ui/Container';
 
 const bannerVideos = [
-  "https://cdn.clinicalvisuals.com/medical/pfm/landing_page/pfm_01.webm",
-  "https://cdn.clinicalvisuals.com/medical/pfm/landing_page/pfm_02.webm",
-  // "https://cdn.clinicalvisuals.com/medical/pfm/landing_page/pfm_03.webm",
-  // "https://cdn.clinicalvisuals.com/medical/pfm/landing_page/pfm_04.webm",
+  "https://cdn.clinicalvisuals.com/medical/pfm_medical/landingpage/clip_01.webm",
+  "https://cdn.clinicalvisuals.com/medical/pfm_medical/landingpage/clip_02.webm",
+  // "https://cdn.clinicalvisuals.com/medical/pfm_medical/landingpage/clip_04.webm",
 ];
 
 export function HeroSection() {
